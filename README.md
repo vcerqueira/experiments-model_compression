@@ -1,6 +1,6 @@
 # Model Compression for Forecasting
 
-This repo is the supplementary material for the paper entitled "Model Compression for Forecasting".
+This repo is the supplementary material for the paper: `Cerqueira, V., Torgo, L., Soares, C., & Bifet, A. (2021). Model Compression for Dynamic Forecast Combination. arXiv preprint arXiv:2104.01830.`
 
 The files should be ran in the following order:
 
